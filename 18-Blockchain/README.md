@@ -14,7 +14,7 @@
 
 ### this section assumes the network has already been created, and you are trying to launch a node on the network
 
-#### if you are looking to create your own version of a testnet network, please refer to [POA Blockchain guide](https://www.GitHub.com/) 
+#### if you are looking to create your own version of a testnet network, please refer to [POA Blockchain guide](https://github.com/jseidman30/bootcamp-homework/blob/main/18-Blockchain/POA-Blockchain-guide.md) 
 
 * from your Geth folder, call the function to initialize the node on the network using the network's JSON file and the Geth executable
 	** example: "./geth --datadir YOURNODENAMEHERE init YOURNETWORKNAMEHERE.json"
@@ -27,7 +27,7 @@
 
 	** example: ./geth --datadir YOURNODENAMEHERE --unlock YOURNODEPUBLICADDRESSHERE --mine --port PORTSPECIFIEDBYINTEGER --bootnodes "enode://ENODEINFOFROMCHAINORIGIN@IPADDRESSOFNODE:PORTNUMBER --ipcdisable --allow-insecure-unlock
 
-**additional details, examples, and screenshots are available in [eCoin github](https://www.GitHub.com/)**
+**additional details, examples, and screenshots are available in [eCoin github](https://github.com/jseidman30/bootcamp-homework/tree/main/18-Blockchain)**
 
 ---
 
@@ -59,7 +59,7 @@
 * Chain ID: 666
 * URL: currently using localhost ("https://127.0.0.1:8545")
 
-* screenshots of the setup process are available and located in [eCoin github](https://www.GitHub.com/)
+* screenshots of the setup process are available and located in [eCoin github](https://github.com/jseidman30/bootcamp-homework/tree/main/18-Blockchain)
 
 
 
