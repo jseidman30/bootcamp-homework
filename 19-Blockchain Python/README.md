@@ -1,13 +1,6 @@
 # Multi-Blockchain Wallet in Python
 
-### Submission
-
-- Create a `README.md` that contains the test transaction screenshots, as well as the code used to send them.
-  Pair the screenshot with the line(s) of code. 
-  
-  [screenshot](https://www.github.com)
-
-  #### description
+ ### description
 
   - this wallet can create new full instances (public address, public key, private key, publickeyhash) of BTC, BTC testnet, or Ethereum wallets inline, convert private keys to usable python variables, create and send transactions using the previously generated info, and estimate gas requirements/usage
   
@@ -23,7 +16,7 @@
   * json
   * load_dotenv from dotenv
   * os
-  * ticker value constants, manually created in a .py file. screenshot can be found [here](https://www.github.com)
+  * ticker value constants, manually created in a .py file. screenshot can be found [here](https://github.com/jseidman30/bootcamp-homework/blob/main/19-Blockchain%20Python/Screen%20Shot%202021-08-31%20at%2012.15.56%20AM.png)
   * PrivateKeyTestnet and NetworkAPI, from bit and bit.network, respectively
   * Web3 and geth_poa_middleware, from web3 and web3.middleware, respectively
   * Account from eth_account
