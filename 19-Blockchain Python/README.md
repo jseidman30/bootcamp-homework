@@ -16,7 +16,7 @@
   * json
   * load_dotenv from dotenv
   * os
-  * ticker value constants, manually created in a .py file. screenshot can be found [here](https://github.com/jseidman30/bootcamp-homework/blob/main/19-Blockchain%20Python/Screen%20Shot%202021-08-31%20at%2012.15.56%20AM.png)
+  * ticker value constants, manually created in a .py file. screenshot can be found [here](https://github.com/jseidman30/bootcamp-homework/blob/main/19-Blockchain%20Python/screenshots/Screen%20Shot%202021-08-31%20at%2012.15.56%20AM.png)
   * PrivateKeyTestnet and NetworkAPI, from bit and bit.network, respectively
   * Web3 and geth_poa_middleware, from web3 and web3.middleware, respectively
   * Account from eth_account
@@ -28,4 +28,4 @@
   * make sure the addressFrom has enough balance to send
   
   * load your mnemonic phrase file, stumble your way through the functions, and off you go
-      ** see screenshots [here](https://www.github.com) for additional details
+      ** see screenshots [screenshots](https://github.com/jseidman30/bootcamp-homework/tree/main/19-Blockchain%20Python/screenshots) for additional details
