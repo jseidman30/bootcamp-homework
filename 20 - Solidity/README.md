@@ -6,7 +6,7 @@
 * public addresses of all you are looking to pay simultaneously
 * an ethereum account with enough ETH in it to perform a transaction
 * preferably, Metamask
-	* you will need to set up a custom, localnet, network in metamask. screenshots can be seen [here](www.github.com)
+	* you will need to set up a custom, localnet, network in metamask. screenshots can be seen [here](https://github.com/jseidman30/bootcamp-homework/blob/main/20%20-%20Solidity/mm.png)
 
 * preferably, Ganache, to help with network setup and details. also, to see transactions and blocks happening in realtime
 * preferably, Remix, to compile the code from scratch if desired. not strictly necessary though
