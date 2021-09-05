@@ -21,6 +21,6 @@
 * compile code, ensure no errors
 * on deploy and run transactions tab, use injected web3 environment to connect to your Metamask
 * input all relevant fields, and select the contract just compiled [deploy](https://github.com/jseidman30/bootcamp-homework/blob/main/21%20-%20Advanced%20Solidity/deployed%20contract%20details.png)
-* confirm transaction success Etherscan [success](https://github.com/jseidman30/bootcamp-homework/blob/main/21%20-%20Advanced%20Solidity/crowdsale%20contribution%20success.png)
-* Puppercoin details on Rinkeby Etherscan [puppercoin](https://github.com/jseidman30/bootcamp-homework/blob/main/21%20-%20Advanced%20Solidity/puppercoin%20details.png)
+* use Rinkeby Etherscan to confirm transaction [success](https://github.com/jseidman30/bootcamp-homework/blob/main/21%20-%20Advanced%20Solidity/crowdsale%20contribution%20success.png)
+* [puppercoin](https://github.com/jseidman30/bootcamp-homework/blob/main/21%20-%20Advanced%20Solidity/puppercoin%20details.png) details
 
